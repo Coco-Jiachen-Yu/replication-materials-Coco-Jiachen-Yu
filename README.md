@@ -1,4 +1,9 @@
 # Alcohol-Related Content on Social Media
+
+**Pilot Findings:** \
+**Initial analyses have found that the most relevant toipcs of alcohol-related content on Twitter are alcohol marketing (e.g., deal, discount, gifts). Overall, sentiment analyses indicate that alcohol-related posts are neutral, despite slightly higher in positive scores than negative scores; the results are surprising, given initial findings in positive socio-emoitonla effects of alcohol and alcohol expectancy. Possible explanations include that there might be some users biasing the results by over-posting alcohol tags.**
+
+
 The code and data in this repository is an example of a reproducible research workflow for MACS 30200 "Perspectives on Computational Research" at the University of Chicago./
 The code is written in Python 3.9.7 and all of its dependencies can be installed by running the following in the terminal (with the `requirements.txt` file included in this repository):
 ```
