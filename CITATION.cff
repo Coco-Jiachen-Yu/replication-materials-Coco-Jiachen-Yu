@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Yu
+    given-names: Coco
+    orcid: https://orcid.org/0000-0002-7731-0563
+title: "MACS 30200 Final Project"
+version: 1.0.0
+date-released: 2022-04-25
