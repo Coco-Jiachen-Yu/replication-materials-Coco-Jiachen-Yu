@@ -1,4 +1,5 @@
 # Alcohol-Related Content on Social Media
+Yu, C. (2022). MACS 30200 Final Project (Version 1.0.0) [Computer software]
 
 **Pilot Findings:** \
 **Initial analyses have found that the most relevant toipcs of alcohol-related content on Twitter are alcohol marketing (e.g., deal, discount, gifts). Overall, sentiment analyses indicate that alcohol-related posts are neutral, despite slightly higher in positive scores than negative scores; the results are surprising, given initial findings in positive socio-emoitonla effects of alcohol and alcohol expectancy. Possible explanations include that there might be some users biasing the results by over-posting alcohol tags.**
