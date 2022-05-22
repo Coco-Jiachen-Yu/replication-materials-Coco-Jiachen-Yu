@@ -1,7 +1,7 @@
 # Alcohol-Related Content on Social Media
 Yu, C. (2022). MACS 30200 Final Project (Version 1.0.0) [Computer software]
 
-**Pilot Findings:** \
+**Pilot Findings:**
 
 **Sentiment analysis revealed that alcohol-related content on Twitter is slightly more positive than negative, while the positive and negative sentiment scores are similar but slightly more negative. According to the network analysis, the more similar the sentiment of two words are, the more likely they are in one post. On the other hand, there is an even distribution of subreddit communities based on their similarity and their sentiment scores.**
 
