@@ -16,26 +16,26 @@ $ pip install -r requirements.txt
 ## 1. Data Scraping
 Enter the following commands in the terminal
 ```
-! snscrape --jsonl --max-results 5000 reddit-subreddit stopdrinking >reddit-@stopdrinking
-! snscrape --jsonl --max-results 5000 reddit-subreddit cripplingalcoholism >reddit-@cripplingalcoholism
-! snscrape --jsonl --max-results 5000 reddit-subreddit drugscirclejerk >reddit-@drugscirclejerk
-! snscrape --jsonl --max-results 5000 reddit-subreddit Drugs >reddit-@Drugs
-! snscrape --jsonl --max-results 5000 reddit-subreddit beer >reddit-@beer
-! snscrape --jsonl --max-results 5000 reddit-subreddit drunk >reddit-@drunk
-! snscrape --jsonl --max-results 5000 reddit-subreddit Alcoholism_Medication >reddit-@Alcoholism_Medication
-! snscrape --jsonl --max-results 5000 reddit-subreddit dryalcoholics >reddit-@dryalcoholics
-! snscrape --jsonl --max-results 5000 reddit-subreddit AlcoholGifRecipes >reddit-@AlcoholGifRecipes
-! snscrape --jsonl --max-results 5000 reddit-subreddit alcoholism >reddit-@alcoholism
-! snscrape --jsonl --max-results 5000 reddit-subreddit alcoholicsanonymous >reddit-@alcoholicsanonymous
-! snscrape --jsonl --max-results 5000 reddit-subreddit Sober >reddit-@Sober
-! snscrape --jsonl --max-results 5000 reddit-subreddit AlAnon >reddit-@AlAnon
-! snscrape --jsonl --max-results 5000 reddit-subreddit trees >reddit-@trees
-! snscrape --jsonl --max-results 5000 reddit-subreddit Marijuana >reddit-@Marijuana
-! snscrape --jsonl --max-results 5000 reddit-subreddit kratom >reddit-@kratom
-! snscrape --jsonl --max-results 5000 reddit-subreddit alcoholic >reddit-@alcoholic
-! snscrape --jsonl --max-results 5000 reddit-subreddit alcoholabuse >reddit-@alcoholabuse
-! snscrape --jsonl --max-results 5000 reddit-subreddit alcoholfreebeer >reddit-@alcoholfreebeer
-! snscrape --jsonl --max-results 5000 reddit-subreddit alcoholismprotips >reddit-@alcoholismprotips
+$ snscrape --jsonl --max-results 5000 reddit-subreddit stopdrinking >reddit-@stopdrinking
+$ snscrape --jsonl --max-results 5000 reddit-subreddit cripplingalcoholism >reddit-@cripplingalcoholism
+$ snscrape --jsonl --max-results 5000 reddit-subreddit drugscirclejerk >reddit-@drugscirclejerk
+$ snscrape --jsonl --max-results 5000 reddit-subreddit Drugs >reddit-@Drugs
+$ snscrape --jsonl --max-results 5000 reddit-subreddit beer >reddit-@beer
+$ snscrape --jsonl --max-results 5000 reddit-subreddit drunk >reddit-@drunk
+$ snscrape --jsonl --max-results 5000 reddit-subreddit Alcoholism_Medication >reddit-@Alcoholism_Medication
+$ snscrape --jsonl --max-results 5000 reddit-subreddit dryalcoholics >reddit-@dryalcoholics
+$ snscrape --jsonl --max-results 5000 reddit-subreddit AlcoholGifRecipes >reddit-@AlcoholGifRecipes
+$ snscrape --jsonl --max-results 5000 reddit-subreddit alcoholism >reddit-@alcoholism
+$ snscrape --jsonl --max-results 5000 reddit-subreddit alcoholicsanonymous >reddit-@alcoholicsanonymous
+$ snscrape --jsonl --max-results 5000 reddit-subreddit Sober >reddit-@Sober
+$ snscrape --jsonl --max-results 5000 reddit-subreddit AlAnon >reddit-@AlAnon
+$ snscrape --jsonl --max-results 5000 reddit-subreddit trees >reddit-@trees
+$ snscrape --jsonl --max-results 5000 reddit-subreddit Marijuana >reddit-@Marijuana
+$ snscrape --jsonl --max-results 5000 reddit-subreddit kratom >reddit-@kratom
+$ snscrape --jsonl --max-results 5000 reddit-subreddit alcoholic >reddit-@alcoholic
+$ snscrape --jsonl --max-results 5000 reddit-subreddit alcoholabuse >reddit-@alcoholabuse
+$ snscrape --jsonl --max-results 5000 reddit-subreddit alcoholfreebeer >reddit-@alcoholfreebeer
+$ snscrape --jsonl --max-results 5000 reddit-subreddit alcoholismprotips >reddit-@alcoholismprotips
 
 $ snscrape --jsonl twitter-search 'alcohol since:2022-04-01 until:2022-05-01' >twitter-@alcohol.json
 ```
