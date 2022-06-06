@@ -40,7 +40,7 @@ $ snscrape --jsonl --max-results 5000 reddit-subreddit alcoholismprotips >reddit
 $ snscrape --jsonl twitter-search 'alcohol since:2022-04-01 until:2022-05-01' >twitter-@alcohol.json
 ```
 
-## 2. Network Analysis on Infranodus
+## 2. Network Analysis on <a href="https://infranodus.com/">Infranodus</a>
 ### Graphical Visualization
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/91500767/172096852-797b1ba1-34c0-4e58-9ac5-ea9b4c03b8e7.png">
