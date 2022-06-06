@@ -39,6 +39,9 @@ $ snscrape --jsonl --max-results 5000 reddit-subreddit alcoholismprotips >reddit
 
 $ snscrape --jsonl twitter-search 'alcohol since:2022-04-01 until:2022-05-01' >twitter-@alcohol.json
 ```
+Then run `export_csv.ipynb` to export data into csv format
+
+All data files for upload to Infranodus availabe at `Twitter_data` and `Reddit_data`
 
 ## 2. Network Analysis on <a href="https://infranodus.com/">Infranodus</a>
 ### Graphical Visualization
@@ -53,6 +56,8 @@ $ snscrape --jsonl twitter-search 'alcohol since:2022-04-01 until:2022-05-01' >t
 
 **Betweenness Centrality**
 
+Original files available at `Infra_Twitter_data.xlsx` and `Infra_Reddit_agg_data.xlsx`
+
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/91500767/172097111-5c593251-b084-4378-91c5-4c710c31f9a6.png">
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/91500767/172097119-b12cef62-7f37-4688-9a94-47c54a17baa7.png">
 
@@ -62,13 +67,24 @@ $ snscrape --jsonl twitter-search 'alcohol since:2022-04-01 until:2022-05-01' >t
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/91500767/172097165-03ebcec6-1f9c-4218-b664-3245572bdcef.png">
 
 ## 3. Sentiment Analysis using NLTK Vader
+Run `Analysis_Reddit.ipynb` and `Analysis_Twitter.ipynb` for sentiment analysis
 
 ![image](https://user-images.githubusercontent.com/91500767/172097203-200a4a0a-cad6-46c4-8268-d3ead94a1ade.png)
 
 ## 4. Regression Analysis
+
+Run final lines on `export_csv.ipynb`
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/91500767/172097272-8d89fe08-e3cd-46dc-8533-8efcc69d229d.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/91500767/172097277-a0d341d0-5c13-4c1f-9c81-69ecd5f5cf73.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/91500767/172097331-f7b9ed6b-0776-4654-b333-76b4f9ae192c.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/91500767/172097340-79efc1fb-2e83-492e-88b8-8e94cd1b3c77.png">
 
+## Copyright
+Copyright (c) 2022 lsc4ss-s22-group-project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
