@@ -81,7 +81,7 @@ Run final lines on `export_csv.ipynb`
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/91500767/172097340-79efc1fb-2e83-492e-88b8-8e94cd1b3c77.png">
 
 ## Copyright
-Copyright (c) 2022 replication-materials-Coco-Jiachen-Yu
+Copyright (c) 2022 Jiachen Yu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
